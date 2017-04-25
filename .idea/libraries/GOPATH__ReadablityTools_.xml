@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ReadablityTools&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../echoclient" />
+      <root url="file://$PROJECT_DIR$/../Gogland_first" />
+      <root url="file://$PROJECT_DIR$/../ds" />
+      <root url="file://$PROJECT_DIR$/../gen" />
+      <root url="file://$PROJECT_DIR$/../myGo" />
+      <root url="file://$PROJECT_DIR$/../httpproxy" />
+      <root url="file://$PROJECT_DIR$/../gbn" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../echoclient" />
+      <root url="file://$PROJECT_DIR$/../Gogland_first" />
+      <root url="file://$PROJECT_DIR$/../ds" />
+      <root url="file://$PROJECT_DIR$/../gen" />
+      <root url="file://$PROJECT_DIR$/../myGo" />
+      <root url="file://$PROJECT_DIR$/../httpproxy" />
+      <root url="file://$PROJECT_DIR$/../gbn" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
